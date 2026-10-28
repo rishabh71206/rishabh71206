@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/rishabh71206/rishabh-srivastava-portfolio/main/assets/avatar-circle.png" width="112" alt="Rishabh Srivastava" />
+
+<br />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c0a,55:171814,100:d8b36a&height=220&section=header&text=Rishabh%20Srivastava&fontSize=46&fontColor=efe8d8&fontAlignY=34&desc=Python%20developer%20%C2%B7%20AI%20products%20%C2%B7%20Streamlit&descAlignY=56&descSize=16&animation=fadeIn" alt="Rishabh Srivastava - Python developer building AI products" width="100%" />
 
 <a href="https://rishabh71206.github.io/rishabh-srivastava-portfolio/">
