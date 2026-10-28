@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rishabh71206/rishabh-srivastava-portfolio/main/assets/avatar-circle.png" width="112" alt="Rishabh Srivastava" />
+<img src="https://raw.githubusercontent.com/rishabh71206/rishabh71206/main/assets/avatar-circle.png" width="112" alt="Rishabh Srivastava" />
 
 <br />
 
