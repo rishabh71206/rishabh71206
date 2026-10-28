@@ -17,10 +17,10 @@
 <a href="https://github.com/rishabh71206?tab=repositories">
   <img src="https://img.shields.io/badge/REPOSITORIES-VIEW%20ALL-efe8d8?style=for-the-badge&logo=github&logoColor=1a150c" alt="Repositories" />
 </a>
+
+<br /><br />
+
 <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20COLLABORATIONS-2ea043?style=for-the-badge&logo=handshake&logoColor=ffffff" alt="Open to internships and collaborations" />
-
-<br />
-
 <img src="https://komarev.com/ghpvc/?username=rishabh71206&style=for-the-badge&color=6f9e8a&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
