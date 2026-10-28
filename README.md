@@ -111,10 +111,6 @@ Built with Python 3.11, Streamlit and Google Gemini.
 
 <br /><br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh71206&bg_color=0b0c0a&color=d8b36a&line=6f9e8a&point=efe8d8&area=true&area_color=d8b36a&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
-
-<br /><br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabh71206/rishabh71206/main/profile-3d-contrib/profile-night-view.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabh71206/rishabh71206/main/profile-3d-contrib/profile-season-animate.svg" />
